@@ -37,7 +37,7 @@ I ask a question → the agent decides which tool to use → it either answers i
 
 ## 🖼️ Screenshots
 
-![Workflow](screenshots/workflow.png)
+![Workflow](screenshots/2026-08-17 234212.png)
 ![Chat Example](screenshots/chat-example.png)
 ![Email Report](screenshots/email-report.png)
 
